@@ -1,12 +1,12 @@
-# Selamat Berjumpa {.unnumbered}
+# Welcome! {.unnumbered}
 
-![About Me](images/AZRL.png){width=950%}
+![Introduction]
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+REPOSITORY TUGAS Keisha Daffa 18224009
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+Selamat datang di repositori tugas milikku!
+Perkenalkan, aku Keisha Daffa Aryani (18224009), mahasiswi semester 2 jurusan Sistem dan Teknologi Informasi, Institut Teknologi Bandung. Aku lahir pada hari Minggu, 25 Juni 2006, di tengah hiruk-pikuk Kota Metropolitan Jakarta.
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebppk: armein_langi
+Sudah cukup lama aku tidak menulis secara personal, namun melalui tugas dari Pak Armein ini, aku ingin kembali menyalakan ketertarikanku dalam menulis dan berkomunikasi lewat media digital. Melalui proyek ini, aku tidak hanya menampilkan hasil belajar dan refleksi, tetapi juga mencoba menelusuri cara berpikir, nilai, dan pandangan pribadiku terhadap dunia di sekitar.
 
-
-
+Aku percaya bahwa menulis bukan sekadar menuangkan kata-kata, melainkan juga membangun jembatan antara pikiran dan pengalaman. Karena itu, buku portofolio ini menjadi wadahku untuk mengekspresikan perjalanan akademik dan pribadi—dengan harapan setiap babnya bisa merepresentasikan pertumbuhan dan pencarian makna selama proses belajar. Selamat membaca dan menjelajah setiap bagiannya. Semoga tempat ini dapat memberi sedikit inspirasi, atau setidaknya, menghadirkan cerita yang hangat dari seseorang yang sedang tumbuh dan belajar.
