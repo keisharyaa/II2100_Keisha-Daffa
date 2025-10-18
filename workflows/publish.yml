@@ -1,25 +1,21 @@
-name: Quarto Publish
+name: Render and Publish Quarto Book
 
 on:
   push:
-    branches: main
+    branches: [main]
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repo
-        uses: actions/checkout@v3
-
+      - name: Checkout repo
+        uses: actions/checkout@v4
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
       - name: Render site
-        uses: quarto-dev/quarto-actions/render@v2
-
-      - name: Publish to GitHub Pages
-        uses: quarto-dev/quarto-actions/publish@v2
+        run: quarto render
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target: gh-pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
